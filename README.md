@@ -6,7 +6,7 @@ An intelligent AI-powered essay writing assistant that helps you plan, research,
 </p>
 
 
-## Features
+## 🌟 Features
 
 - 🤖 AI-powered essay planning and writing
 - 🔍 Automated research gathering using Tavily API
@@ -19,7 +19,7 @@ An intelligent AI-powered essay writing assistant that helps you plan, research,
 - 💾 State persistence using SQLite
 - 🔄 Multiple revision cycles for quality improvement
 
-## Prerequisites
+## 🔑 Prerequisites
 
 - Python 3.11+
 - [uv](https://github.com/astral-sh/uv) package manager
