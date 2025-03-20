@@ -1,4 +1,4 @@
-# AI Essay Writer ✍️
+# ✍️ Agentic AI Essay Writer Powered by LangGraph and Streamlit
 
 An intelligent AI-powered essay writing assistant that helps you plan, research, and write well-structured essays with multiple revisions.
 <p align="center">
@@ -74,7 +74,7 @@ make run-st-app
 - `prompts.py`: AI model prompts
 - `main.py`: Command-line interface
 
-## 🚀 How It Works
+## 🚀 How It Works (Powered by LangGraph)
 
 <p align="center">
   <img src="/sources/graph.png" alt="Essay Writer Workflow Graph">
