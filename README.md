@@ -1,7 +1,10 @@
 # AI Essay Writer ✍️
 
 An intelligent AI-powered essay writing assistant that helps you plan, research, and write well-structured essays with multiple revisions.
-![](/sources/gui.png){: .mx-auto}
+<p align="center">
+  <img src="/sources/gui.png" alt="Essay Writer Workflow GUI">
+</p>
+
 
 ## Features
 
@@ -73,7 +76,10 @@ make run-st-app
 
 ## 🚀 How It Works
 
-![](/sources/graph.png){: .mx-auto}
+<p align="center">
+  <img src="/sources/graph.png" alt="Essay Writer Workflow Graph">
+</p>
+
 
 The AI Essay Writer uses a sophisticated graph-based workflow:
 
