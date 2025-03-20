@@ -38,6 +38,9 @@ uv sync
 
 
 3. Set up environment variables by placing your API keys in a `.env` file in the root of the repository:
+``` bash
+OPENAI_API_KEY="YOUR_OPENAI_API_KEY"
+TAVILY_API_KEY="YOR_TAVILY_API_KEY"
 ```
 
 ## 💻 Usage 
