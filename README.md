@@ -99,7 +99,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments 🙏
 
-- Deeplearning.ai Course on AI agents in LangGraph(https://learn.deeplearning.ai/courses/ai-agents-in-langgraph)
+- Deeplearning.ai Course on AI agents in [LangGraph](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph)
 - OpenAI for providing the language models
 - Tavily for the research API
 - Streamlit for the web interface framework
